@@ -69,13 +69,13 @@ uvicorn main:app --reload
 
 Fill in the required fields and hit the start button to gather all the job listings for the specified job title and location, sorted by match scores against your uploaded CV.
 
-![Alt text](images\request_input_data.png)
+![Alt text](images/request_input_data.png)
 
 ### Step 9: Apply to Jobs
 
 Jobs are listed from highest to lowest match scores. Apply to the job of interest by clicking on the "apply" button.
 
-![Apply to Jobs](images\prediction_results.png)
+![Apply to Jobs](images/prediction_results.png)
 
 ## Notes
 To run locally, operate two different terminals each time: one with the 'job_finder' environment to run 'streamlit run front_end.py', and another to execute 'uvicorn main_codes:app --reload'.
