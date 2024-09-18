@@ -76,5 +76,5 @@ Jobs are listed from highest to lowest match scores. Apply to the job of interes
 ![Apply to Jobs](images/prediction_results.png)
 
 ## Notes
-To run locally, operate two different terminals each time: one with the 'job_finder' environment to run 'streamlit run front_end.py', and another to execute 'uvicorn main_codes:app --reload'.
+To run locally, operate two different terminals each time: one with the 'job_finder' environment to run 'streamlit run front_end.py', and another to execute 'uvicorn main:app --reload'.
 
