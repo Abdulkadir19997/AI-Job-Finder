@@ -35,8 +35,6 @@ s
 
 After confirming that the job_finder environment is active, install all necessary libraries from the 'requirements.txt' file:
 
-![Alt text](https://drive.google.com/uc?export=view&id=1yks7ublHRFKaZR9fUWCOnu21WnEZAx2q "Görsel Başlığı")
-
 ```bash
 pip install -r requirements.txt
 ```
